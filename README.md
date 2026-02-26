@@ -10,7 +10,7 @@ A smart color palette generator built with **HTML, CSS, and JavaScript**.
 - Export palettes (planned)
 
 ## 🚀 Live Demo
-Coming soon
+https://tonepalette.netlify.app/
 
 ## 🛠️ Built With
 - HTML5
