@@ -2,6 +2,8 @@
 
 A smart color palette generator built with **HTML, CSS, and JavaScript**.
 
+<img src="./image/screenshot.png" alt="Color Palette Generator Screenshot" width="600">
+
 ## ✨ Features
 - Generate random color palettes
 - Copy color codes to clipboard
